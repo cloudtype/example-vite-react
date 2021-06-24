@@ -1,4 +1,6 @@
 {
+  "name": "example-vite-react",
+  "description": "example-vite-react",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
